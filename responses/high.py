@@ -1,2 +1,2 @@
 def get_response():
-    return "Those are rookie numbers! Lets bump them up!"
+    return "Hit another line and get productive! Wubalubadubdub!"
